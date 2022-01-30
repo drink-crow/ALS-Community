@@ -32,7 +32,7 @@ Replicated and optimized community version of [Advanced Locomotion System V4](ht
 - Clone the repository inside your project's `Plugins` folder, or download the latest release and extract it into your project's `Plugins` folder.
 - Put `Config/DefaultInput.ini` from the plugin folder inside your project's config folder. If your project already have this .ini file, merge it into yours.
 - Regenerate visual studio project files and build your project.
-- Launch the project, and enable plugin content viewer as seen below. This will show contents of the plugin in your content browser:
+- Launch the project, and enable plugin content viewer as seen below. This will show contents of the plugin in your content browser(need restart editor):
 ![image](https://github.com/dyanikoglu/ALS-Community/raw/main/Resources/Readme_Content_1.png)
 
 ## Functions To Override In Blueprints
